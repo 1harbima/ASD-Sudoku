@@ -10,5 +10,5 @@ Group Capstone Project Checking Point 1 - Sudoku
   Still playable by simply choosing your desired difficulty
   and click Reset Game
 
------------------- Unnecessary Changes Made -------------------
+----------------- Unnecessary Changes Made ------------------
 - Removed New Game Button
