@@ -161,7 +161,7 @@ public class SudokuMain extends JFrame {
 
         board.newGame();
 
-        setTitle("Sudoku");
+        setTitle("Group 15 Sudoku Project");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(600, 600);
         setVisible(true);
